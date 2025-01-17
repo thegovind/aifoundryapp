@@ -22,7 +22,7 @@ function App() {
           <div className="flex items-center justify-center mb-8">
             <Brain className="w-16 h-16 text-blue-400 mr-3" />
             <h1 className="text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-indigo-400 to-cyan-400">
-              Azure AI Foundry
+              Apps built with Azure AI Foundry
             </h1>
           </div>
           <h2 className="text-3xl font-semibold text-gray-100 tracking-tight">
